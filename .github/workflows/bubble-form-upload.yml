@@ -7,7 +7,7 @@ on:
         description: 'Base64 encoded file content'
         required: true
       fileName:
-        description: 'Name of the file'
+        description: 'bubbleform' # 'Name of the file'
         required: true
 
 jobs:
