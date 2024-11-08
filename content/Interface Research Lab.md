@@ -1,7 +1,6 @@
 [[-Beacon Organizations-]]
 
 https://irl.beaconny.net/
-[[DerekE]]
 
 A proposal to create a community technology education and digital fabrication lab in Beacon, NY.
 
